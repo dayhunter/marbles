@@ -1,7 +1,7 @@
 {
 	"credentials": {
 		"peers": [{
-			"api_host": "192.168.99.100",
+			"api_host": "192.168.0.108",
 			"api_port": 7050,
 			"type": "peer",
 			"id": "vp0"
